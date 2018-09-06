@@ -5,7 +5,7 @@ Basic gaming based web-forum that allows users to talk about games and trade/sel
 I will be using
   * Microsoft Visual Studio 2017
   * ASP.NET 4.7
-  * Entity Framework 
+  * Entity Framework 6.2
   * Javascript/JQuery
   * Bootstrap/Bootbox
   * Paypal API
