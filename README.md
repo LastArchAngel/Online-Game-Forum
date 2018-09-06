@@ -1,2 +1,12 @@
 # Online-Game-Forum
-This is a pet project. Practice software engineering, Python, and web development. I will also learn a few things.
+A project so that I can practive .NET MVC.
+Basic gaming based web-forum that allows users to talk about games and trade/sell games.
+
+I will be using
+  * Microsoft Visual Studio 2017
+  * ASP.NET 4.7
+  * Entity Framework 
+  * Javascript/JQuery
+  * Bootstrap/Bootbox
+  * Paypal API
+  * tawk.to API
